@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Tokens
+#######################################
+# Class
+#######################################
+
+Token			KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+bearer			KEYWORD2
+
+
+#######################################
+# Constants
+#######################################
+
+HTTP_CODE_OK		LITERAL1
+BEARER_URL		LITERAL1
+TARGET_HEADER		LITERAL1
+TARGET_VALUE		LITERAL1
+CONTENT_HEADER		LITERAL1
+CONTENT_VALUE		LITERAL1
