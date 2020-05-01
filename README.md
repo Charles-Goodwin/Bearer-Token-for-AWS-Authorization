@@ -1,5 +1,5 @@
 # Automate AWS Bearer Token Husbandry
-Automates having a valid bearer token from the AWS Cognito Identity Provider Service
+Automates having a valid bearer token from the AWS Cognito Identity Provider Service  
 Tested and used on an EPS32 DevKitC board
 
 This library uses the AWS Cognito Identity Provider Service to ensure you always have a valid bearer token  
